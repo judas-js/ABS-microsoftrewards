@@ -5,4 +5,4 @@ could get suspended, so head my warning.
 
 ![image](https://user-images.githubusercontent.com/109978676/203346443-1f14b94b-1387-467c-b8b0-f749f75ba0eb.png)
 ### What is this?
-This is ABS, and all its wonderful functions it can do. :shipit:
+This is ABS, and all its wonderful functions it can do. :shipit: A highly better explanation of ABS is [here](docs/CONTRIBUTING.md)
