@@ -23,4 +23,5 @@ Press extract files
 
 ![image](https://user-images.githubusercontent.com/109978676/203352591-8f7e4330-103f-4f54-825f-d7af871716ab.png)
 
-And press okay! The file doesn't have a password, so you don't have to worry about that.
+And press okay! The file doesn't have a password, so you don't have to worry about that. 
+**Now, you can read** [this](Abs-Unpack.md) so you can unpack the extension and use it!
